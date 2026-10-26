@@ -1,0 +1,1 @@
+{"id":"pay_demo_001","payer_id":"payer_demo","agent_id":"agent_demo","beneficiary_id":"beneficiary_demo","amount":100000,"source_currency":"EUR","destination_currency":"BRL","source_country":"NL","destination_country":"BR","payment_type":"B2B_PAYOUT","purpose":"synthetic supplier payout","deadline_seconds":1800,"mandate_id":"mandate_demo","maximum_cost":10000,"maximum_risk":0.35}
